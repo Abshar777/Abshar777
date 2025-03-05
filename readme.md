@@ -22,7 +22,7 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,gcp,deno,bun,rabbitmq,kafka,jest,jenkins,yarn,pnpm,deno,npm,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,gcp,deno,bun,rabbitmq,kafka,jest,yarn,pnpm,deno,npm,postman" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,kubernetes,nginx,aws,gcp,netlify,heroku,cloudflare,githubactions,bash,git,gitlab,linux,ubunto,Jenkins" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,kubernetes,jenkins,nginx,aws,gcp,netlify,heroku,cloudflare,githubactions,bash,git,gitlab,linux,ubunto,Jenkins" />
   </a>
 </p>
 
