@@ -113,7 +113,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `bevy`       |     <img src="./icons/Bevy-Dark.svg" width="48">      |
 |    `bitbucket`     |   <img src="./icons/BitBucket-Dark.svg" width="48">   |
 |     `blender`      |    <img src="./icons/Blender-Dark.svg" width="48">    |
-|    `bootstrap`     |     <img src="./icons/Bootstrap.svg" width="48">      |
+|    ``     |     <img src="./icons/Bootstrap.svg" width="48">      |
 |       `bsd`        |      <img src="./icons/BSD-Dark.svg" width="48">      |
 |       `bun`        |      <img src="./icons/Bun-Dark.svg" width="48">      |
 |        `c`         |         <img src="./icons/C.svg" width="48">          |

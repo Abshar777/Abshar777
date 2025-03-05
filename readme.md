@@ -9,19 +9,14 @@ I specialize in building scalable applications with modern web technologies. Pas
 ## 🚀 Technologies & Tools  
 
 ### 🖥️ Frontend  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
-![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=flat&logo=tailwind-css&logoColor=white)  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)  
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![HTMX](https://img.shields.io/badge/-HTMX-101010?style=flat)  
-![Pug](https://img.shields.io/badge/-Pug-A86454?style=flat&logo=pug&logoColor=white)  
+
+```html
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nextjs,react,redux,shadCn,threejs,materialui,bootstrap,sass,html,css,htmx,pug" />
+  </a>
+</p>
+```
 
 ### ⚡ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
@@ -65,13 +60,7 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Abshar's GitHub stats" />
-</p>
-
----
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
