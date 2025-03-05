@@ -69,3 +69,7 @@ I specialize in building scalable applications with modern web technologies. Pas
 ---
 
 ⭐ **If you like my work, feel free to star my repos!**  
+
+<img src="https://raw.githubusercontent.com/abshar777/abshar777/output/snake.svg" alt="Snake animation" />
+
+###
