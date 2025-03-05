@@ -22,7 +22,7 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,gcp,deno,rabbitmq,kafka,jest,jenkins,yarn,pnpm,deno,npm,postman" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,gcp,deno,bun,rabbitmq,kafka,jest,jenkins,yarn,pnpm,deno,npm,postman" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,netlify,heroku,cloudflare,githubactions,bash,ssh,git,gitlab,ai,linux,ubunto,Jenkins" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,kubernetes,nginx,aws,gcp,netlify,heroku,cloudflare,githubactions,bash,git,gitlab,linux,ubunto,Jenkins" />
   </a>
 </p>
 
@@ -52,9 +52,19 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](./icons/LinkedIn.svg)](https://www.linkedin.com/in/mhd-abshar-04126a284/)  
-[![GitHub](./icons/Github-Dark.svg" width="48)](https://github.com/Abshar777)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white)](")  
+
+<p align="start">
+  <a href="https://www.linkedin.com/in/mhd-abshar-04126a284/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Abshar777">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.instagram.com/ka_efx/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+ 
 
 ---
 
