@@ -10,13 +10,12 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 ### 🖥️ Frontend  
 
-```html
+
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nextjs,react,redux,shadCn,threejs,materialui,bootstrap,sass,html,css,htmx,pug" />
   </a>
 </p>
-```
 
 ### ⚡ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
