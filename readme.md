@@ -6,6 +6,12 @@ I specialize in building scalable applications with modern web technologies. Pas
 
 ---
 
+## 🌟 About Me
+
+I specialize in building dynamic, responsive, and scalable web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Whether it's crafting intuitive user interfaces or developing robust backend systems, I love turning ideas into reality.
+
+---
+
 ## 🚀 Technologies & Tools  
 
 ### 🖥️ Frontend  
