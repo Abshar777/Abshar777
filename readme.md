@@ -1,6 +1,6 @@
 # Hi there, I'm Abshar 👋  
 
-🚀 **Full-Stack Developer | Next.js | TypeScript | Nodejs | MongoDb | Express | Electron | React | Kafka | Kubernetes | GCP | Redis | AWS  | DevOps**  
+🚀 **Full-Stack Developer | Next.js | TypeScript | Nodejs | MongoDb | Express | Electron | React | Kafka | Kubernetes | GCP | Redis | AWS | WEB3 | Blockchain | DevOps**  
 
 I specialize in building scalable applications with modern web technologies. Passionate about **microservices, cloud computing, DevOps, and real-time applications**.
 
